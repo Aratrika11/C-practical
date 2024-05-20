@@ -36,6 +36,6 @@ int main()
     myArray.input(arr);
     myArray.display(arr);
     int sum = myArray.add(arr);
-    cout << "\nThe sum is: " << sum << endl;
+    cout << "\nThe sum is:" << sum << endl;
     return 0;
 }
